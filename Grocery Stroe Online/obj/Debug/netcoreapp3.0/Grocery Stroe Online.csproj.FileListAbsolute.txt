@@ -1,0 +1,40 @@
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Grocery Stroe Online.exe
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Grocery Stroe Online.deps.json
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Grocery Stroe Online.runtimeconfig.json
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Grocery Stroe Online.runtimeconfig.dev.json
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Grocery Stroe Online.dll
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Grocery Stroe Online.pdb
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Grocery Stroe Online.Views.dll
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\Debug\netcoreapp3.0\Grocery Stroe Online.Views.pdb
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.csprojAssemblyReference.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\staticwebassets\Grocery Stroe Online.StaticWebAssets.Manifest.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\staticwebassets\Grocery Stroe Online.StaticWebAssets.xml
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.RazorAssemblyInfo.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.RazorAssemblyInfo.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.AssemblyInfoInputs.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.AssemblyInfo.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.TagHelpers.input.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.TagHelpers.output.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.RazorCoreGenerate.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.RazorTargetAssemblyInfo.cache
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.RazorTargetAssemblyInfo.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.Views.pdb
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.dll
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.pdb
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.csproj.CopyComplete
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\Shop.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\ShopDetail.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\Checkout.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\ShoppingChart.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\WashingThing.cshtml.g.cs
