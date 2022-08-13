@@ -10,7 +10,9 @@ namespace Grocery_Stroe_Online.Models
     {
         [Key]
         public int Id { get; set; }
+        [Required(AllowEmptyStrings =false,ErrorMessage ="Name is not allowed to be empty")]
         public string Name { get; set; }
+        
         public string Password { get; set; }
     }
 }

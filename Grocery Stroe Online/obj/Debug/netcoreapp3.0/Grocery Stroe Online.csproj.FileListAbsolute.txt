@@ -38,4 +38,5 @@ C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\ShoppingChart.cshtml.g.cs
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\EatingThing.cshtml.g.cs
-C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\User\ShowLogin.cshtml.g.cs
