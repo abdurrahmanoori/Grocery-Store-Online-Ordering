@@ -5,13 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Grocery_Stroe_Online.Models;
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace Grocery_Stroe_Online.Controllers
 {
     public class UserController : Controller
     {
         [HttpPost]
-        public IActionResult Login(Users users)
+        public IActionResult Login(User users)
         {
             if (ModelState.IsValid)
             {
@@ -30,5 +29,22 @@ namespace Grocery_Stroe_Online.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult CreateUser(User user)
+        {
+            if (ModelState.IsValid)
+            {
+                return RedirectToAction("Login");
+            }
+            else
+            {
+                return View();
+            }
+        }
+        public IActionResult CreateUser()
+        {
+            return View();
+        }
+
     }
 }
