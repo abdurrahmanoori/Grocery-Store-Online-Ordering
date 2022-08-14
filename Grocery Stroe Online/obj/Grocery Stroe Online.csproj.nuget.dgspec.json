@@ -38,7 +38,7 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.0.0, )"
             }

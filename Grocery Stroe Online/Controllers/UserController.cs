@@ -14,12 +14,16 @@ namespace Grocery_Stroe_Online.Controllers
         {
             if (ModelState.IsValid)
             {
-                return View("ShowLogin", users);
 
+                //return View("ShowLogin", users);
+                return RedirectToAction("ShowLogin");
+
+                
             }
             else
             {
                 return View();
+
                 //return View(users);
             }
         }
@@ -42,6 +46,11 @@ namespace Grocery_Stroe_Online.Controllers
             }
         }
         public IActionResult CreateUser()
+        {
+            return View();
+        }
+
+        public IActionResult ShowLogin()
         {
             return View();
         }

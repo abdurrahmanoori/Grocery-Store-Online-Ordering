@@ -12,7 +12,6 @@ C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.csprojAssemblyReference.cache
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\staticwebassets\Grocery Stroe Online.StaticWebAssets.Manifest.cache
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\staticwebassets\Grocery Stroe Online.StaticWebAssets.xml
-C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.RazorAssemblyInfo.cache
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.RazorAssemblyInfo.cs
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.AssemblyInfoInputs.cache
