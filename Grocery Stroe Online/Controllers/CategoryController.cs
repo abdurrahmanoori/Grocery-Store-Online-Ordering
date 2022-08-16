@@ -8,12 +8,20 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Grocery_Stroe_Online.Controllers
 {
-    public class CategroyController : Controller
+    public class CategoryController : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()
         {
             return View();
         }
+        //GET Create
+        public IActionResult Create()
+        {
+
+            return View();
+        }
+           
+
     }
 }
