@@ -1,7 +1,29 @@
-﻿
+﻿@model IEnumerable<Grocery_Stroe_Online.Models.Category>
 @{
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-
+<div class="container">
+    <h2>Category Index</h2>
+    <div class="text-right">
+        <a class="btn btn-primary" asp-action="Create">Create Category</a>
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    @*<td>john@example.com</td>*@
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

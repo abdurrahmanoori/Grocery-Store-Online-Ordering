@@ -26,31 +26,8 @@ namespace Grocery_Stroe_Online
         public void ConfigureServices(IServiceCollection services)
         {
 
-            //        services.AddDbContext<ApplicaitonDbContext>(options =>
-            //options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-
             services.AddDbContext<ApplicationDbContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddControllers();
-
-
-
-     //       services.AddDbContext<ApplicaitonDbContext>(options =>
-     //       options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-     //       services.AddControllers();
-
-
-
-            //services.AddDbContext<ApplicaitonDbContext>(options => options.UseSqlServer("DefaultConnection"));
-
-            //services.AddDbContextPool<ApplicaitonDbContext>(
-            //    options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-
-
-            //services.AddDbContext<ApplicaitonDbContext>(options =>
-            //options.UseSqlServer(
-            //    Configuration.GetConnectionString("DefultConnection")));
-
+      options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddControllersWithViews();
         }
 
