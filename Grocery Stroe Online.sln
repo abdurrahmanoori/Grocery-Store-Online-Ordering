@@ -1,48 +1,3 @@
-<<<<<<< HEAD
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29418.71
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grocery Stroe Online", "Grocery Stroe Online\Grocery Stroe Online.csproj", "{7D311699-2E3C-4CDA-850C-3B6BF76D7DF8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStoryDataAccess", "GroceryStoryDataAccess\GroceryStoryDataAccess.csproj", "{27300B5A-00CF-4F92-9738-83AAFBEF3DE8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStoreModels", "GroceryStoreModels\GroceryStoreModels.csproj", "{ACF4BB78-208F-4F7F-A9C6-A905CD580698}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStoreUtility", "GroceryStoreUtility\GroceryStoreUtility.csproj", "{ECF5F51B-77FD-4279-8592-9C160BB52ED7}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7D311699-2E3C-4CDA-850C-3B6BF76D7DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D311699-2E3C-4CDA-850C-3B6BF76D7DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D311699-2E3C-4CDA-850C-3B6BF76D7DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D311699-2E3C-4CDA-850C-3B6BF76D7DF8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{27300B5A-00CF-4F92-9738-83AAFBEF3DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{27300B5A-00CF-4F92-9738-83AAFBEF3DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{27300B5A-00CF-4F92-9738-83AAFBEF3DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{27300B5A-00CF-4F92-9738-83AAFBEF3DE8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ACF4BB78-208F-4F7F-A9C6-A905CD580698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ACF4BB78-208F-4F7F-A9C6-A905CD580698}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ACF4BB78-208F-4F7F-A9C6-A905CD580698}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ACF4BB78-208F-4F7F-A9C6-A905CD580698}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ECF5F51B-77FD-4279-8592-9C160BB52ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECF5F51B-77FD-4279-8592-9C160BB52ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECF5F51B-77FD-4279-8592-9C160BB52ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECF5F51B-77FD-4279-8592-9C160BB52ED7}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C6A441F6-8776-453F-81D8-B3831940E1B5}
-	EndGlobalSection
-EndGlobal
-=======
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -68,4 +23,3 @@ Global
 		SolutionGuid = {C6A441F6-8776-453F-81D8-B3831940E1B5}
 	EndGlobalSection
 EndGlobal
->>>>>>> 1132ae23fe3280b6e33841bdbc5a0ee3da440bdf

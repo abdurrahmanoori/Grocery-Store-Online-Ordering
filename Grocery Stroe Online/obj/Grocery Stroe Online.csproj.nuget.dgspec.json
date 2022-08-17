@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdurrahman\\source\\repos\\Grocery Stroe Online\\Grocery Stroe Online\\Grocery Stroe Online.csproj": {}
+    "C:\\Users\\Abdurrahman\\source\\Grocery Stroe Online\\Grocery Stroe Online\\Grocery Stroe Online.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdurrahman\\source\\repos\\Grocery Stroe Online\\Grocery Stroe Online\\Grocery Stroe Online.csproj": {
+    "C:\\Users\\Abdurrahman\\source\\Grocery Stroe Online\\Grocery Stroe Online\\Grocery Stroe Online.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdurrahman\\source\\repos\\Grocery Stroe Online\\Grocery Stroe Online\\Grocery Stroe Online.csproj",
+        "projectUniqueName": "C:\\Users\\Abdurrahman\\source\\Grocery Stroe Online\\Grocery Stroe Online\\Grocery Stroe Online.csproj",
         "projectName": "Grocery Stroe Online",
-        "projectPath": "C:\\Users\\Abdurrahman\\source\\repos\\Grocery Stroe Online\\Grocery Stroe Online\\Grocery Stroe Online.csproj",
+        "projectPath": "C:\\Users\\Abdurrahman\\source\\Grocery Stroe Online\\Grocery Stroe Online\\Grocery Stroe Online.csproj",
         "packagesPath": "C:\\Users\\Abdurrahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdurrahman\\source\\repos\\Grocery Stroe Online\\Grocery Stroe Online\\obj\\",
+        "outputPath": "C:\\Users\\Abdurrahman\\source\\Grocery Stroe Online\\Grocery Stroe Online\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdurrahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
