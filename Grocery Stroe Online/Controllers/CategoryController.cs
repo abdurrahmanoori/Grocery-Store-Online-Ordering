@@ -48,6 +48,57 @@ namespace Grocery_Stroe_Online.Controllers
             return View();
         }
 
+        //GET Edit
+        public IActionResult Edit(int? id)
+        {
+            var obj = _db.Categories.Find(id);
+            if(obj == null)
+            {
+                return NotFound();
+            }
+            return View(obj);
+        }
+        //POST Edit
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Categories.Update(category);
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+        //GET Delete
+        public IActionResult Delete(int? id)
+        {
+            if(id==null || id == 0)
+            {
+                return NotFound();
+            }
+            var obj = _db.Categories.Find(id);
+            return View(obj);
+        }
+
+        //POST Delete
+        [HttpPost]
+        [ActionName("Delete")]
+        public IActionResult DeletePost(int? id)
+        {
+            if(id==null || id == 0)
+            {
+                return NotFound();
+            }
+            Category category= _db.Categories.Find(id);
+            _db.Categories.Remove(category);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+
+
 
     }
 }

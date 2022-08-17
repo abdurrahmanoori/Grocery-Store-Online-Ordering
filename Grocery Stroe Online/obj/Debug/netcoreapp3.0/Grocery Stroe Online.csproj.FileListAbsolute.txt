@@ -134,3 +134,5 @@ C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\bin\
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Grocery Stroe Online.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Category\Create.cshtml.g.cs
 C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Abdurrahman\source\repos\Grocery Stroe Online\Grocery Stroe Online\obj\Debug\netcoreapp3.0\Razor\Views\Category\Delete.cshtml.g.cs

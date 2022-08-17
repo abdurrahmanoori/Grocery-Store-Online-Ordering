@@ -21,7 +21,12 @@
                 <tr>
                     <td>@item.Id</td>
                     <td>@item.Name</td>
-                    @*<td>john@example.com</td>*@
+                    <td>
+                        <div class="btn btn-group text-center w-50">
+                            <a class="btn btn-primary mr-2" asp-route-Id="@item.Id" asp-action="Edit">Edit</a>
+                            <a class="btn btn-danger" asp-route-Id="@item.Id" asp-action="Delete">Delete</a>
+                        </div>
+                    </td>
                 </tr>
             }
         </tbody>
